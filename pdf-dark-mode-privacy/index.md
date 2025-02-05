@@ -1,6 +1,6 @@
 # Privacy Policy for PDF Dark Mode Extension
 
-Last updated: [Current Date]
+Last updated: 2/24/2025
 
 ## Overview
 PDF Dark Mode is a Chrome extension that adds dark mode functionality to PDF documents. We are committed to protecting your privacy and ensuring you have a trusted experience while using our extension.
@@ -29,4 +29,4 @@ These permissions are used solely for providing dark mode functionality.
 This privacy policy may be updated occasionally. We will notify users of any material changes by updating the "Last updated" date.
 
 ## Contact
-If you have questions about this privacy policy or the extension, please contact us at [Your Email].
+If you have questions about this privacy policy or the extension, please contact us at hxchrm@gmail.com.
